@@ -35,6 +35,9 @@ Hardware Lifecycle: Data revealed that Sensor_v1 devices have a 2x higher failur
 Temporal Patterns: Significant anomalies were detected between 2-4 AM, suggesting systemic issues with climate control systems during off-peak hours.
 
 💼 Business Recommendations
+
 Immediate: Deploy a real-time alerting system and prioritize Building_A for maintenance to mitigate hardware risk.
+
 Strategic: Transition from reactive to Predictive Maintenance by integrating the Isolation Forest model with existing Building Management Systems (BMS).
+
 Optimization: Investigate the 2-4 AM anomaly cluster to optimize energy usage and HVAC performance.
