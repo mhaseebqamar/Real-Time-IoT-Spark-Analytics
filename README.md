@@ -1,3 +1,5 @@
+# Real-Time IoT Sensor Analytics & Anomaly Detection (PySpark)
+
 📌 Project Overview
 This project leverages PySpark on Databricks to build a scalable monitoring and anomaly detection pipeline for industrial IoT sensors. By analyzing high-frequency data from Temperature, Pressure, and Vibration sensors, the system identifies critical hardware irregularities and environmental instabilities to drive predictive maintenance strategies.
 
